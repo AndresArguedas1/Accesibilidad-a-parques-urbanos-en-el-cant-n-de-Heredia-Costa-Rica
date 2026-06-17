@@ -7,3 +7,4 @@ streamlit-folium
 shapely
 fiona
 pyproj
+pyogrio
